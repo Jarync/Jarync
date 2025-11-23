@@ -4,7 +4,7 @@ I am a **Computer & Communication Systems Engineering** student at **UPM**, spec
 
 - 🔭 I’m currently searching for working on **AI-powered Medical Diagnostics & IoT Solutions**
 - 📍 Based in **Kuala Lumpur, Malaysia**
-- 💼 Interned at **Goldfish Technology (Shenzhen)** as an Embedded Software Engineer
+- 💼 Use to be an Embedded Software Engineer
 
 ---
 
