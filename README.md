@@ -2,7 +2,7 @@
 
 I am a **Computer & Communication Systems Engineering** student at **UPM**, specializing in the intersection of **Embedded Systems** and **Deep Learning**. I love building things that bridge the physical and digital worlds.
 
-- 🔭 I’m currently searching for working on **AI-powered Medical Diagnostics & IoT Solutions**
+- 🔭 I’m currently searching for job on **AI-powered Medical Diagnostics & IoT Solutions**
 - 📍 Based in **Kuala Lumpur, Malaysia**
 - 💼 Use to be an Embedded Software Engineer
 
