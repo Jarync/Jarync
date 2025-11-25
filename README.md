@@ -19,12 +19,6 @@ I am a **Computer & Communication Systems Engineering** student at **UPM**, spec
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jarync&show_icons=true&theme=radical&hide_border=true" alt="Jarync's Github Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jarync&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="48%" />
-</p>
 
 ---
 
