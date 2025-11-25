@@ -18,6 +18,16 @@ I am a **Computer & Communication Systems Engineering** student at **UPM**, spec
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
+### 🚀 Featured Projects
+
+| Project | Type | Description |
+| :--- | :--- | :--- |
+| **[UCL Severity Analyzer](https://github.com/Jarync/UCL-Severity-Analyzer)** | 🧠 AI & Web | Automated Cleft Lip diagnosis using HRNet & Flask. |
+| **[Smart Drill System](https://github.com/Jarync/Smart-Drill-Depth-Controller)** | ⚙️ Embedded | Auto-stop drilling mechanism with ESP-NOW wireless control. |
+| **[Bio-Rhythm Light](https://github.com/Jarync/Bio-Rhythm-Interactive-Light)** | 🎨 Interactive | Breathing-synchronized lighting installation using microphone arrays. |
+
+---
+
 
 ### 📊 GitHub 
 
@@ -27,10 +37,4 @@ I am a **Computer & Communication Systems Engineering** student at **UPM**, spec
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Type | Description |
-| :--- | :--- | :--- |
-| **[UCL Severity Analyzer](https://github.com/Jarync/UCL-Severity-Analyzer)** | 🧠 AI & Web | Automated Cleft Lip diagnosis using HRNet & Flask. |
-| **[Smart Drill System](https://github.com/Jarync/Smart-Drill-Depth-Controller)** | ⚙️ Embedded | Auto-stop drilling mechanism with ESP-NOW wireless control. |
-| **[Bio-Rhythm Light](https://github.com/Jarync/Bio-Rhythm-Interactive-Light)** | 🎨 Interactive | Breathing-synchronized lighting installation using microphone arrays. |
+![](https://komarev.com/ghpvc/?username=Jarync&label=Profile%20Views&color=0e75b6&style=flat)
