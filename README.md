@@ -2,9 +2,9 @@
 
 I am a **Computer & Communication Systems Engineering** student at **UPM**, specializing in the intersection of **Embedded Systems** and **Deep Learning**. I love building things that bridge the physical and digital worlds.
 
-- 🔭 I’m currently searching for job on **AI-powered Medical Diagnostics & IoT Solutions**
+- 🔭 I’m currently working on **AI-powered Medical Diagnostics & IoT Solutions**
 - 📍 Based in **Kuala Lumpur, Malaysia**
-- 💼 Use to be an Embedded Software Engineer
+- 💼 Interned at **Goldfish Technology (Shenzhen)** as an Embedded Software Engineer
 
 ---
 
@@ -19,6 +19,11 @@ I am a **Computer & Communication Systems Engineering** student at **UPM**, spec
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jarync&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="48%" />
+</p>
 
 ---
 
