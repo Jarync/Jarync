@@ -3,8 +3,7 @@
 I am a **Computer & Communication Systems Engineering** student at **UPM**, specializing in the intersection of **Embedded Systems** and **Deep Learning**. I love building things that bridge the physical and digital worlds.
 
 - 🔭 I’m currently working on **AI-powered Medical Diagnostics & IoT Solutions**
-- 📍 Based in **Kuala Lumpur, Malaysia**
-- 💼 Interned at **Goldfish Technology (Shenzhen)** as an Embedded Software Engineer
+- 📍 Based in **Hong Kong**
 
 ---
 
